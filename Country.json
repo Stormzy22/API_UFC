@@ -1,0 +1,65 @@
+[
+   {
+      "id": "country-001",
+      "name": "Ireland",
+      "flag": "https://example.com/ireland-flag.jpg",
+      "population": 4977400,
+      "capital": "Dublin"
+    },
+    {
+      "id": "country-002",
+      "name": "Brazil",
+      "flag": "https://example.com/brazil-flag.jpg",
+      "population": 213993000,
+      "capital": "Brasilia"
+    },
+    {
+      "id": "country-006",
+      "name": "Dagestan",
+      "flag": "https://example.com/dagestan-flag.jpg",
+      "population": 3060000,
+      "capital": "Makhachkala"
+    },
+    {
+      "id": "country-004",
+      "name": "United States",
+      "flag": "https://example.com/usa-flag.jpg",
+      "population": 331893745,
+      "capital": "Washington, D.C."
+    },
+    {
+      "id": "country-007",
+      "name": "Cameroon",
+      "flag": "https://example.com/cameroon-flag.jpg",
+      "population": 26545863,
+      "capital": "Yaoundé"
+    },
+    {
+      "id": "country-008",
+      "name": "Nigeria",
+      "flag": "https://example.com/nigeria-flag.jpg",
+      "population": 211400000,
+      "capital": "Abuja"
+    },
+    {
+      "id": "country-010",
+      "name": "Australia",
+      "flag": "https://example.com/australia-flag.jpg",
+      "population": 25687041,
+      "capital": "Canberra"
+    },
+    {
+      "id": "country-011",
+      "name": "Georgia",
+      "flag": "https://example.com/georgia-flag.jpg",
+      "population": 3716858,
+      "capital": "Tbilisi"
+    },
+    {
+      "id": "country-012",
+      "name": "Russia",
+      "flag": "https://example.com/russia-flag.jpg",
+      "population": 144100000,
+      "capital": "Moscow"
+    }
+]
