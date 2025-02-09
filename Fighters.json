@@ -1,0 +1,542 @@
+ [
+  {
+    "id": "fighter-001",
+    "name": "Conor McGregor",
+    "description": "Een charismatische Ierse vechter, voormalig kampioen in meerdere gewichtsklassen.",
+    "age": 34,
+    "isActive": true,
+    "birthdate": "1988-07-14",
+    "profilePicture": "https://example.com/conor.jpg",
+    "weightClass": "Lightweight",
+    "hobbies": ["Whiskey distilling", "Boxing", "Acting"],
+    "country": {
+      "id": "country-001",
+      "name": "Ireland",
+      "flag": "https://example.com/ireland-flag.jpg",
+      "population": 4977400,
+      "capital": "Dublin"
+    }
+  },
+  {
+    "id": "fighter-011",
+    "name": "Norman Parke",
+    "description": "Een technische vechter met sterke grappling vaardigheden uit Noord-Ierland.",
+    "age": 36,
+    "isActive": true,
+    "birthdate": "1986-12-22",
+    "profilePicture": "https://example.com/norman-parke.jpg",
+    "weightClass": "Lightweight",
+    "hobbies": ["Fishing", "Jiu-Jitsu"],
+    "country": {
+      "id": "country-001",
+      "name": "Ireland",
+      "flag": "https://example.com/ireland-flag.jpg",
+      "population": 4977400,
+      "capital": "Dublin"
+    }
+  },
+  {
+    "id": "fighter-012",
+    "name": "Joe Duffy",
+    "description": "Een veelzijdige vechter en voormalig bokser, bekend om zijn snelle submission-overwinningen.",
+    "age": 34,
+    "isActive": false,
+    "birthdate": "1988-02-18",
+    "profilePicture": "https://example.com/joe-duffy.jpg",
+    "weightClass": "Lightweight",
+    "hobbies": ["Boxing", "Training"],
+    "country": {
+      "id": "country-001",
+      "name": "Ireland",
+      "flag": "https://example.com/ireland-flag.jpg",
+      "population": 4977400,
+      "capital": "Dublin"
+    }
+  },
+  {
+    "id": "fighter-002",
+    "name": "José Aldo",
+    "description": "Een legendarische vechter met onverslaanbare leg kicks uit Brazilië.",
+    "age": 36,
+    "isActive": false,
+    "birthdate": "1986-09-09",
+    "profilePicture": "https://example.com/aldo.jpg",
+    "weightClass": "Featherweight",
+    "hobbies": ["Football", "Fishing"],
+    "country": {
+      "id": "country-002",
+      "name": "Brazil",
+      "flag": "https://example.com/brazil-flag.jpg",
+      "population": 213993000,
+      "capital": "Brasilia"
+    }
+  },
+  {
+    "id": "fighter-013",
+    "name": "Anderson Silva",
+    "description": "Een van de grootste mixed martial artists aller tijden, bekend om zijn precisie en onorthodoxe stijl.",
+    "age": 47,
+    "isActive": false,
+    "birthdate": "1975-04-14",
+    "profilePicture": "https://example.com/silva.jpg",
+    "weightClass": "Middleweight",
+    "hobbies": ["Movies", "Training"],
+    "country": {
+      "id": "country-002",
+      "name": "Brazil",
+      "flag": "https://example.com/brazil-flag.jpg",
+      "population": 213993000,
+      "capital": "Brasilia"
+    }
+  },
+  {
+    "id": "fighter-014",
+    "name": "Alex Pereira",
+    "description": "Een sterke kickbokser die bekendstaat om zijn brute knockouts.",
+    "age": 35,
+    "isActive": true,
+    "birthdate": "1987-07-07",
+    "profilePicture": "https://example.com/pereira.jpg",
+    "weightClass": "Middleweight",
+    "hobbies": ["Hunting", "Muay Thai"],
+    "country": {
+      "id": "country-002",
+      "name": "Brazil",
+      "flag": "https://example.com/brazil-flag.jpg",
+      "population": 213993000,
+      "capital": "Brasilia"
+    }
+  },
+  {
+    "id": "fighter-003",
+    "name": "Khabib Nurmagomedov",
+    "description": "Een ongeslagen Russische worstelaar die bekendstaat om zijn dominantie.",
+    "age": 34,
+    "isActive": false,
+    "birthdate": "1988-09-20",
+    "profilePicture": "https://example.com/khabib.jpg",
+    "weightClass": "Lightweight",
+    "hobbies": ["Horse riding", "Training young fighters"],
+    "country": {
+      "id": "country-006",
+      "name": "Dagestan",
+      "flag": "https://example.com/dagestan-flag.jpg",
+      "population": 3060000,
+      "capital": "Makhachkala"
+    }
+  },
+  {
+    "id": "fighter-015",
+    "name": "Magomed Ankalaev",
+    "description": "Een vechter met uitstekende vechttechnieken en indrukwekkende kracht.",
+    "age": 31,
+    "isActive": true,
+    "birthdate": "1992-06-02",
+    "profilePicture": "https://example.com/magomed.jpg",
+    "weightClass": "Light Heavyweight",
+    "hobbies": ["Wrestling", "Fitness"],
+    "country": {
+      "id": "country-006",
+      "name": "Dagestan",
+      "flag": "https://example.com/dagestan-flag.jpg",
+      "population": 3060000,
+      "capital": "Makhachkala"
+    }
+  },
+  {
+    "id": "fighter-016",
+    "name": "Islam Makhachev",
+    "description": "Een technische meester in grappling en een dominante vechter in de lightweight divisie.",
+    "age": 31,
+    "isActive": true,
+    "birthdate": "1991-10-27",
+    "profilePicture": "https://example.com/islam.jpg",
+    "weightClass": "Lightweight",
+    "hobbies": ["Judo", "Traveling"],
+    "country": {
+      "id": "country-006",
+      "name": "Dagestan",
+      "flag": "https://example.com/dagestan-flag.jpg",
+      "population": 3060000,
+      "capital": "Makhachkala"
+    }
+  },
+ {
+    "id": "fighter-005",
+    "name": "Jon Jones",
+    "description": "Vaak gezien als de grootste mixed martial artist aller tijden.",
+    "age": 35,
+    "isActive": true,
+    "birthdate": "1987-07-19",
+    "profilePicture": "https://example.com/jon-jones.jpg",
+    "weightClass": "Heavyweight",
+    "hobbies": ["Weightlifting", "Bowhunting"],
+    "country": {
+      "id": "country-004",
+      "name": "United States",
+      "flag": "https://example.com/usa-flag.jpg",
+      "population": 331893745,
+      "capital": "Washington, D.C."
+    }
+  },
+  {
+    "id": "fighter-017",
+    "name": "Demetrious Johnson",
+    "description": "Bekend als Mighty Mouse, een van de meest complete vechters ooit.",
+    "age": 36,
+    "isActive": true,
+    "birthdate": "1986-08-13",
+    "profilePicture": "https://example.com/mighty-mouse.jpg",
+    "weightClass": "Flyweight",
+    "hobbies": ["Gaming", "Fitness"],
+    "country": {
+      "id": "country-004",
+      "name": "United States",
+      "flag": "https://example.com/usa-flag.jpg",
+      "population": 331893745,
+      "capital": "Washington, D.C."
+    }
+  },
+  {
+    "id": "fighter-018",
+    "name": "Daniel Cormier",
+    "description": "Voormalig kampioen in zowel de heavyweight als light heavyweight divisies, een gerespecteerde analist.",
+    "age": 43,
+    "isActive": false,
+    "birthdate": "1979-03-20",
+    "profilePicture": "https://example.com/dc.jpg",
+    "weightClass": "Heavyweight",
+    "hobbies": ["Wrestling commentary", "Coaching"],
+    "country": {
+      "id": "country-004",
+      "name": "United States",
+      "flag": "https://example.com/usa-flag.jpg",
+      "population": 331893745,
+      "capital": "Washington, D.C."
+    }
+  },
+  {
+    "id": "fighter-019",
+    "name": "Francis Ngannou",
+    "description": "Een van de krachtigste strikers in de geschiedenis van MMA, voormalig UFC-kampioen heavyweight.",
+    "age": 36,
+    "isActive": true,
+    "birthdate": "1986-09-05",
+    "profilePicture": "https://example.com/ngannou.jpg",
+    "weightClass": "Heavyweight",
+    "hobbies": ["Boxing", "Traveling"],
+    "country": {
+      "id": "country-007",
+      "name": "Cameroon",
+      "flag": "https://example.com/cameroon-flag.jpg",
+      "population": 26545863,
+      "capital": "Yaoundé"
+    }
+  },
+  {
+    "id": "fighter-020",
+    "name": "Tafon Nchukwi",
+    "description": "Een explosieve vechter met een indrukwekkende knockout power.",
+    "age": 28,
+    "isActive": true,
+    "birthdate": "1995-02-14",
+    "profilePicture": "https://example.com/tafon.jpg",
+    "weightClass": "Middleweight",
+    "hobbies": ["Weightlifting", "Music"],
+    "country": {
+      "id": "country-007",
+      "name": "Cameroon",
+      "flag": "https://example.com/cameroon-flag.jpg",
+      "population": 26545863,
+      "capital": "Yaoundé"
+    }
+  },
+  {
+    "id": "fighter-021",
+    "name": "Ateba Eyong",
+    "description": "Een veelbelovend vechter met technische vaardigheden en een sterke cardio.",
+    "age": 25,
+    "isActive": true,
+    "birthdate": "1998-04-12",
+    "profilePicture": "https://example.com/ateba.jpg",
+    "weightClass": "Welterweight",
+    "hobbies": ["Running", "Martial arts training"],
+    "country": {
+      "id": "country-007",
+      "name": "Cameroon",
+      "flag": "https://example.com/cameroon-flag.jpg",
+      "population": 26545863,
+      "capital": "Yaoundé"
+    }
+  },
+  {
+    "id": "fighter-022",
+    "name": "Kamaru Usman",
+    "description": "Voormalig UFC Welterweight-kampioen, bekend om zijn dominante worstelstijl.",
+    "age": 35,
+    "isActive": true,
+    "birthdate": "1987-05-11",
+    "profilePicture": "https://example.com/usman.jpg",
+    "weightClass": "Welterweight",
+    "hobbies": ["Wrestling", "Family time"],
+    "country": {
+      "id": "country-008",
+      "name": "Nigeria",
+      "flag": "https://example.com/nigeria-flag.jpg",
+      "population": 211400000,
+      "capital": "Abuja"
+    }
+  },
+  {
+    "id": "fighter-023",
+    "name": "Israel Adesanya",
+    "description": "Een creatieve en dynamische striker, voormalig Middleweight-kampioen.",
+    "age": 33,
+    "isActive": true,
+    "birthdate": "1989-07-22",
+    "profilePicture": "https://example.com/adesanya.jpg",
+    "weightClass": "Middleweight",
+    "hobbies": ["Dancing", "Anime"],
+    "country": {
+      "id": "country-008",
+      "name": "Nigeria",
+      "flag": "https://example.com/nigeria-flag.jpg",
+      "population": 211400000,
+      "capital": "Abuja"
+    }
+  },
+  {
+    "id": "fighter-024",
+    "name": "Cornel Thompson",
+    "description": "Een veelbelovend vechter met indrukwekkende vaardigheden en sterke grappling-technieken.",
+    "age": 27,
+    "isActive": true,
+    "birthdate": "1996-03-18",
+    "profilePicture": "https://example.com/thompson.jpg",
+    "weightClass": "Lightweight",
+    "hobbies": ["Training", "Reading"],
+    "country": {
+      "id": "country-008",
+      "name": "Nigeria",
+      "flag": "https://example.com/nigeria-flag.jpg",
+      "population": 211400000,
+      "capital": "Abuja"
+    }
+  },
+  {
+    "id": "fighter-025",
+    "name": "Georges \"Rush\" St-Pierre",
+    "description": "Een van de grootste vechters aller tijden, voormalig kampioen in zowel de welterweight als middleweight divisies.",
+    "age": 41,
+    "isActive": false,
+    "birthdate": "1981-05-19",
+    "profilePicture": "https://example.com/gsp.jpg",
+    "weightClass": "Welterweight",
+    "hobbies": ["Gymnastics", "Martial arts coaching"],
+    "country": {
+      "id": "country-009",
+      "name": "Canada",
+      "flag": "https://example.com/canada-flag.jpg",
+      "population": 38000000,
+      "capital": "Ottawa"
+    }
+  },
+  {
+    "id": "fighter-026",
+    "name": "TJ Grant",
+    "description": "Een voormalige lightweight contender bekend om zijn krachtige striking.",
+    "age": 38,
+    "isActive": false,
+    "birthdate": "1984-02-26",
+    "profilePicture": "https://example.com/tjgrant.jpg",
+    "weightClass": "Lightweight",
+    "hobbies": ["Fishing", "Family time"],
+    "country": {
+      "id": "country-009",
+      "name": "Canada",
+      "flag": "https://example.com/canada-flag.jpg",
+      "population": 38000000,
+      "capital": "Ottawa"
+    }
+  },
+  {
+    "id": "fighter-027",
+    "name": "Rory \"Red King\" MacDonald",
+    "description": "Een veelzijdige vechter met uitstekende technische vaardigheden, voormalig Bellator welterweight-kampioen.",
+    "age": 33,
+    "isActive": false,
+    "birthdate": "1989-07-22",
+    "profilePicture": "https://example.com/rory.jpg",
+    "weightClass": "Welterweight",
+    "hobbies": ["Hiking", "Martial arts"],
+    "country": {
+      "id": "country-009",
+      "name": "Canada",
+      "flag": "https://example.com/canada-flag.jpg",
+      "population": 38000000,
+      "capital": "Ottawa"
+    }
+  },
+  {
+    "id": "fighter-028",
+    "name": "Alexander Volkanovski",
+    "description": "Huidige UFC Featherweight-kampioen, bekend om zijn vechtintelligentie en aanpassingsvermogen.",
+    "age": 34,
+    "isActive": true,
+    "birthdate": "1988-09-29",
+    "profilePicture": "https://example.com/volkanovski.jpg",
+    "weightClass": "Featherweight",
+    "hobbies": ["Rugby", "Training"],
+    "country": {
+      "id": "country-010",
+      "name": "Australia",
+      "flag": "https://example.com/australia-flag.jpg",
+      "population": 25687041,
+      "capital": "Canberra"
+    }
+  },
+  {
+    "id": "fighter-029",
+    "name": "Robert Whittaker",
+    "description": "Voormalig UFC Middleweight-kampioen, geliefd om zijn technische striking en verdedigingsvermogen.",
+    "age": 32,
+    "isActive": true,
+    "birthdate": "1990-12-20",
+    "profilePicture": "https://example.com/whittaker.jpg",
+    "weightClass": "Middleweight",
+    "hobbies": ["Gaming", "Family time"],
+    "country": {
+      "id": "country-010",
+      "name": "Australia",
+      "flag": "https://example.com/australia-flag.jpg",
+      "population": 25687041,
+      "capital": "Canberra"
+    }
+  },
+  {
+    "id": "fighter-030",
+    "name": "Jimmy Crute",
+    "description": "Een veelbelovende light heavyweight-vechter met sterke grappling-vaardigheden.",
+    "age": 27,
+    "isActive": true,
+    "birthdate": "1996-03-04",
+    "profilePicture": "https://example.com/jimmycrute.jpg",
+    "weightClass": "Light Heavyweight",
+    "hobbies": ["Fishing", "Traveling"],
+    "country": {
+      "id": "country-010",
+      "name": "Australia",
+      "flag": "https://example.com/australia-flag.jpg",
+      "population": 25687041,
+      "capital": "Canberra"
+    }
+  },
+  {
+    "id": "fighter-031",
+    "name": "Ilia Topuria",
+    "description": "Een explosieve vechter met sterke grappling- en striking-vaardigheden.",
+    "age": 26,
+    "isActive": true,
+    "birthdate": "1997-01-21",
+    "profilePicture": "https://example.com/ilia.jpg",
+    "weightClass": "Featherweight",
+    "hobbies": ["Wrestling", "Traveling"],
+    "country": {
+      "id": "country-011",
+      "name": "Georgia",
+      "flag": "https://example.com/georgia-flag.jpg",
+      "population": 3716858,
+      "capital": "Tbilisi"
+    }
+  },
+  {
+    "id": "fighter-032",
+    "name": "Merab Dvalishvili",
+    "description": "Een cardio-machine en dominant bantamweight-contender met ongeëvenaarde takedown-statistieken.",
+    "age": 32,
+    "isActive": true,
+    "birthdate": "1991-01-10",
+    "profilePicture": "https://example.com/merab.jpg",
+    "weightClass": "Bantamweight",
+    "hobbies": ["Hiking", "Martial arts"],
+    "country": {
+      "id": "country-011",
+      "name": "Georgia",
+      "flag": "https://example.com/georgia-flag.jpg",
+      "population": 3716858,
+      "capital": "Tbilisi"
+    }
+  },
+  {
+    "id": "fighter-033",
+    "name": "Giga Chikadze",
+    "description": "Een dynamische striker met een kickboksachtergrond en creatieve aanvallen.",
+    "age": 34,
+    "isActive": true,
+    "birthdate": "1989-08-25",
+    "profilePicture": "https://example.com/giga.jpg",
+    "weightClass": "Featherweight",
+    "hobbies": ["Kickboxing", "Coaching"],
+    "country": {
+      "id": "country-011",
+      "name": "Georgia",
+      "flag": "https://example.com/georgia-flag.jpg",
+      "population": 3716858,
+      "capital": "Tbilisi"
+    }
+  },
+  {
+    "id": "fighter-034",
+    "name": "Fedor Emelianenko",
+    "description": "Een legendarische vechter die wordt beschouwd als een van de beste heavyweights in de MMA-geschiedenis.",
+    "age": 46,
+    "isActive": false,
+    "birthdate": "1976-09-28",
+    "profilePicture": "https://example.com/fedor.jpg",
+    "weightClass": "Heavyweight",
+    "hobbies": ["Sambo", "Training"],
+    "country": {
+      "id": "country-012",
+      "name": "Russia",
+      "flag": "https://example.com/russia-flag.jpg",
+      "population": 144100000,
+      "capital": "Moscow"
+    }
+  },
+  {
+    "id": "fighter-035",
+    "name": "Khamzat Chimaev",
+    "description": "Een dominante vechter met uitstekende grappling en krachtige striking, bekend om zijn agressieve stijl.",
+    "age": 29,
+    "isActive": true,
+    "birthdate": "1994-05-01",
+    "profilePicture": "https://example.com/khamzat.jpg",
+    "weightClass": "Welterweight",
+    "hobbies": ["Wrestling", "Hunting"],
+    "country": {
+      "id": "country-012",
+      "name": "Russia",
+      "flag": "https://example.com/russia-flag.jpg",
+      "population": 144100000,
+      "capital": "Moscow"
+    }
+  },
+  {
+    "id": "fighter-036",
+    "name": "Petr Yan",
+    "description": "Voormalig UFC Bantamweight-kampioen met een uitstekende boksachtergrond en een agressieve stijl.",
+    "age": 30,
+    "isActive": true,
+    "birthdate": "1993-02-11",
+    "profilePicture": "https://example.com/petr.jpg",
+    "weightClass": "Bantamweight",
+    "hobbies": ["Boxing", "Family time"],
+    "country": {
+      "id": "country-012",
+      "name": "Russia",
+      "flag": "https://example.com/russia-flag.jpg",
+      "population": 144100000,
+      "capital": "Moscow"
+    }
+  }
+]
