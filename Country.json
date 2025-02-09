@@ -41,6 +41,13 @@
       "population": 211400000,
       "capital": "Abuja"
     },
+     {
+      "id": "country-009",
+      "name": "Canada",
+      "flag": "https://example.com/canada-flag.jpg",
+      "population": 38000000,
+      "capital": "Ottawa"
+    },
     {
       "id": "country-010",
       "name": "Australia",
