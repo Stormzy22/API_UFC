@@ -253,7 +253,7 @@
   },
   {
     "id": "fighter-021",
-    "name": "Ateba Eyong",
+    "name": "Ateba Gautier",
     "description": "Een veelbelovend vechter met technische vaardigheden en een sterke cardio.",
     "age": 25,
     "isActive": true,
@@ -325,7 +325,7 @@
   },
   {
     "id": "fighter-025",
-    "name": "Georges \"Rush\" St-Pierre",
+    "name": "Georges St-Pierre",
     "description": "Een van de grootste vechters aller tijden, voormalig kampioen in zowel de welterweight als middleweight divisies.",
     "age": 41,
     "isActive": false,
@@ -361,7 +361,7 @@
   },
   {
     "id": "fighter-027",
-    "name": "Rory \"Red King\" MacDonald",
+    "name": "Rory MacDonald",
     "description": "Een veelzijdige vechter met uitstekende technische vaardigheden, voormalig Bellator welterweight-kampioen.",
     "age": 33,
     "isActive": false,
