@@ -6,13 +6,13 @@
     "age": 34,
     "isActive": true,
     "birthdate": "1988-07-14",
-    "profilePicture": "https://example.com/conor.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Conor_McGregor.jpg.jpg?raw=true",
     "weightClass": "Lightweight",
     "hobbies": ["Whiskey distilling", "Boxing", "Acting"],
     "country": {
       "id": "country-001",
       "name": "Ireland",
-      "flag": "https://example.com/ireland-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/ireland_glossy_square_icon_640.png?raw=true",
       "population": 4977400,
       "capital": "Dublin"
     }
@@ -24,13 +24,13 @@
     "age": 36,
     "isActive": true,
     "birthdate": "1986-12-22",
-    "profilePicture": "https://example.com/norman-parke.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Parke-Norman.jpg?raw=true",
     "weightClass": "Lightweight",
     "hobbies": ["Fishing", "Jiu-Jitsu"],
     "country": {
       "id": "country-001",
       "name": "Ireland",
-      "flag": "https://example.com/ireland-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/ireland_glossy_square_icon_640.png?raw=true",
       "population": 4977400,
       "capital": "Dublin"
     }
@@ -42,13 +42,13 @@
     "age": 34,
     "isActive": false,
     "birthdate": "1988-02-18",
-    "profilePicture": "https://example.com/joe-duffy.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Joe-Duffy.jpg?raw=true",
     "weightClass": "Lightweight",
     "hobbies": ["Boxing", "Training"],
     "country": {
       "id": "country-001",
       "name": "Ireland",
-      "flag": "https://example.com/ireland-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/ireland_glossy_square_icon_640.png?raw=true",
       "population": 4977400,
       "capital": "Dublin"
     }
@@ -60,13 +60,13 @@
     "age": 36,
     "isActive": false,
     "birthdate": "1986-09-09",
-    "profilePicture": "https://example.com/aldo.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Jos%C3%A9_Aldo.jpg?raw=true",
     "weightClass": "Featherweight",
     "hobbies": ["Football", "Fishing"],
     "country": {
       "id": "country-002",
       "name": "Brazil",
-      "flag": "https://example.com/brazil-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/brazil_glossy_square_icon_640.png?raw=true",
       "population": 213993000,
       "capital": "Brasilia"
     }
@@ -78,13 +78,13 @@
     "age": 47,
     "isActive": false,
     "birthdate": "1975-04-14",
-    "profilePicture": "https://example.com/silva.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Anderson_Silva.jpg?raw=true",
     "weightClass": "Middleweight",
     "hobbies": ["Movies", "Training"],
     "country": {
       "id": "country-002",
       "name": "Brazil",
-      "flag": "https://example.com/brazil-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/brazil_glossy_square_icon_640.png?raw=true",
       "population": 213993000,
       "capital": "Brasilia"
     }
@@ -96,13 +96,13 @@
     "age": 35,
     "isActive": true,
     "birthdate": "1987-07-07",
-    "profilePicture": "https://example.com/pereira.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Alex_Pereira.jpg?raw=true",
     "weightClass": "Middleweight",
     "hobbies": ["Hunting", "Muay Thai"],
     "country": {
       "id": "country-002",
       "name": "Brazil",
-      "flag": "https://example.com/brazil-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/brazil_glossy_square_icon_640.png?raw=true",
       "population": 213993000,
       "capital": "Brasilia"
     }
@@ -114,13 +114,13 @@
     "age": 34,
     "isActive": false,
     "birthdate": "1988-09-20",
-    "profilePicture": "https://example.com/khabib.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Khabib_Nurmagomedov.jpg?raw=true",
     "weightClass": "Lightweight",
     "hobbies": ["Horse riding", "Training young fighters"],
     "country": {
       "id": "country-006",
       "name": "Dagestan",
-      "flag": "https://example.com/dagestan-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/dagestan(1).png?raw=true",
       "population": 3060000,
       "capital": "Makhachkala"
     }
@@ -132,13 +132,13 @@
     "age": 31,
     "isActive": true,
     "birthdate": "1992-06-02",
-    "profilePicture": "https://example.com/magomed.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Magomed_Ankalaev.jpg?raw=true",
     "weightClass": "Light Heavyweight",
     "hobbies": ["Wrestling", "Fitness"],
     "country": {
       "id": "country-006",
       "name": "Dagestan",
-      "flag": "https://example.com/dagestan-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/dagestan(1).png?raw=true",
       "population": 3060000,
       "capital": "Makhachkala"
     }
@@ -150,13 +150,13 @@
     "age": 31,
     "isActive": true,
     "birthdate": "1991-10-27",
-    "profilePicture": "https://example.com/islam.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Islam_Makhachev.jpg?raw=true",
     "weightClass": "Lightweight",
     "hobbies": ["Judo", "Traveling"],
     "country": {
       "id": "country-006",
       "name": "Dagestan",
-      "flag": "https://example.com/dagestan-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/dagestan(1).png?raw=true",
       "population": 3060000,
       "capital": "Makhachkala"
     }
@@ -168,13 +168,13 @@
     "age": 35,
     "isActive": true,
     "birthdate": "1987-07-19",
-    "profilePicture": "https://example.com/jon-jones.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Jon_Jones.jpg?raw=true",
     "weightClass": "Heavyweight",
     "hobbies": ["Weightlifting", "Bowhunting"],
     "country": {
       "id": "country-004",
       "name": "United States",
-      "flag": "https://example.com/usa-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/united_states_of_america_glossy_square_icon_640.png?raw=true",
       "population": 331893745,
       "capital": "Washington, D.C."
     }
@@ -186,13 +186,13 @@
     "age": 36,
     "isActive": true,
     "birthdate": "1986-08-13",
-    "profilePicture": "https://example.com/mighty-mouse.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Demetrious_Johnson.jpg?raw=true",
     "weightClass": "Flyweight",
     "hobbies": ["Gaming", "Fitness"],
     "country": {
       "id": "country-004",
       "name": "United States",
-      "flag": "https://example.com/usa-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/united_states_of_america_glossy_square_icon_640.png?raw=true",
       "population": 331893745,
       "capital": "Washington, D.C."
     }
@@ -204,13 +204,13 @@
     "age": 43,
     "isActive": false,
     "birthdate": "1979-03-20",
-    "profilePicture": "https://example.com/dc.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Daniel_Cormier.jpg?raw=true",
     "weightClass": "Heavyweight",
     "hobbies": ["Wrestling commentary", "Coaching"],
     "country": {
       "id": "country-004",
       "name": "United States",
-      "flag": "https://example.com/usa-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/united_states_of_america_glossy_square_icon_640.png?raw=true",
       "population": 331893745,
       "capital": "Washington, D.C."
     }
@@ -222,13 +222,13 @@
     "age": 36,
     "isActive": true,
     "birthdate": "1986-09-05",
-    "profilePicture": "https://example.com/ngannou.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Francis_Ngannou.jpg?raw=true",
     "weightClass": "Heavyweight",
     "hobbies": ["Boxing", "Traveling"],
     "country": {
       "id": "country-007",
       "name": "Cameroon",
-      "flag": "https://example.com/cameroon-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/cameroon_glossy_square_icon_640.png?raw=true",
       "population": 26545863,
       "capital": "Yaoundé"
     }
@@ -240,13 +240,13 @@
     "age": 28,
     "isActive": true,
     "birthdate": "1995-02-14",
-    "profilePicture": "https://example.com/tafon.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Tafon_Nchukwi.jpg?raw=true",
     "weightClass": "Middleweight",
     "hobbies": ["Weightlifting", "Music"],
     "country": {
       "id": "country-007",
       "name": "Cameroon",
-      "flag": "https://example.com/cameroon-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/cameroon_glossy_square_icon_640.png?raw=true",
       "population": 26545863,
       "capital": "Yaoundé"
     }
@@ -258,13 +258,13 @@
     "age": 25,
     "isActive": true,
     "birthdate": "1998-04-12",
-    "profilePicture": "https://example.com/ateba.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Ateba%20Gautier.jpg?raw=true",
     "weightClass": "Welterweight",
     "hobbies": ["Running", "Martial arts training"],
     "country": {
       "id": "country-007",
       "name": "Cameroon",
-      "flag": "https://example.com/cameroon-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/cameroon_glossy_square_icon_640.png?raw=true",
       "population": 26545863,
       "capital": "Yaoundé"
     }
@@ -276,13 +276,13 @@
     "age": 35,
     "isActive": true,
     "birthdate": "1987-05-11",
-    "profilePicture": "https://example.com/usman.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Kamaru_Usman.jpg?raw=true",
     "weightClass": "Welterweight",
     "hobbies": ["Wrestling", "Family time"],
     "country": {
       "id": "country-008",
       "name": "Nigeria",
-      "flag": "https://example.com/nigeria-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/nigeria_glossy_square_icon_640.png?raw=true",
       "population": 211400000,
       "capital": "Abuja"
     }
@@ -294,13 +294,13 @@
     "age": 33,
     "isActive": true,
     "birthdate": "1989-07-22",
-    "profilePicture": "https://example.com/adesanya.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Israel_Adesanya.jpg?raw=true",
     "weightClass": "Middleweight",
     "hobbies": ["Dancing", "Anime"],
     "country": {
       "id": "country-008",
       "name": "Nigeria",
-      "flag": "https://example.com/nigeria-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/nigeria_glossy_square_icon_640.png?raw=true",
       "population": 211400000,
       "capital": "Abuja"
     }
@@ -312,13 +312,13 @@
     "age": 27,
     "isActive": true,
     "birthdate": "1996-03-18",
-    "profilePicture": "https://example.com/thompson.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Cornel_Thompson.jpg?raw=true",
     "weightClass": "Lightweight",
     "hobbies": ["Training", "Reading"],
     "country": {
       "id": "country-008",
       "name": "Nigeria",
-      "flag": "https://example.com/nigeria-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/nigeria_glossy_square_icon_640.png?raw=true",
       "population": 211400000,
       "capital": "Abuja"
     }
@@ -330,13 +330,13 @@
     "age": 41,
     "isActive": false,
     "birthdate": "1981-05-19",
-    "profilePicture": "https://example.com/gsp.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Georges_St-Pierre.jpg?raw=true",
     "weightClass": "Welterweight",
     "hobbies": ["Gymnastics", "Martial arts coaching"],
     "country": {
       "id": "country-009",
       "name": "Canada",
-      "flag": "https://example.com/canada-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/canada_glossy_square_icon_640.png?raw=true",
       "population": 38000000,
       "capital": "Ottawa"
     }
@@ -348,13 +348,13 @@
     "age": 38,
     "isActive": false,
     "birthdate": "1984-02-26",
-    "profilePicture": "https://example.com/tjgrant.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/TJ_Grant.jpg?raw=true",
     "weightClass": "Lightweight",
     "hobbies": ["Fishing", "Family time"],
     "country": {
       "id": "country-009",
       "name": "Canada",
-      "flag": "https://example.com/canada-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/canada_glossy_square_icon_640.png?raw=true",
       "population": 38000000,
       "capital": "Ottawa"
     }
@@ -366,13 +366,13 @@
     "age": 33,
     "isActive": false,
     "birthdate": "1989-07-22",
-    "profilePicture": "https://example.com/rory.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Rory_MacDonald.jpg?raw=true",
     "weightClass": "Welterweight",
     "hobbies": ["Hiking", "Martial arts"],
     "country": {
       "id": "country-009",
       "name": "Canada",
-      "flag": "https://example.com/canada-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/canada_glossy_square_icon_640.png?raw=true",
       "population": 38000000,
       "capital": "Ottawa"
     }
@@ -384,13 +384,13 @@
     "age": 34,
     "isActive": true,
     "birthdate": "1988-09-29",
-    "profilePicture": "https://example.com/volkanovski.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Alexander_Volkanovski.jpg?raw=true",
     "weightClass": "Featherweight",
     "hobbies": ["Rugby", "Training"],
     "country": {
       "id": "country-010",
       "name": "Australia",
-      "flag": "https://example.com/australia-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/australia_glossy_square_icon_640.png?raw=true",
       "population": 25687041,
       "capital": "Canberra"
     }
@@ -402,13 +402,13 @@
     "age": 32,
     "isActive": true,
     "birthdate": "1990-12-20",
-    "profilePicture": "https://example.com/whittaker.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Robert_Whittaker.jpg?raw=true",
     "weightClass": "Middleweight",
     "hobbies": ["Gaming", "Family time"],
     "country": {
       "id": "country-010",
       "name": "Australia",
-      "flag": "https://example.com/australia-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/australia_glossy_square_icon_640.png?raw=true",
       "population": 25687041,
       "capital": "Canberra"
     }
@@ -420,13 +420,13 @@
     "age": 27,
     "isActive": true,
     "birthdate": "1996-03-04",
-    "profilePicture": "https://example.com/jimmycrute.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Jimmy_Crute.jpg?raw=true",
     "weightClass": "Light Heavyweight",
     "hobbies": ["Fishing", "Traveling"],
     "country": {
       "id": "country-010",
       "name": "Australia",
-      "flag": "https://example.com/australia-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/australia_glossy_square_icon_640.png?raw=true",
       "population": 25687041,
       "capital": "Canberra"
     }
@@ -438,13 +438,13 @@
     "age": 26,
     "isActive": true,
     "birthdate": "1997-01-21",
-    "profilePicture": "https://example.com/ilia.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Ilia_Topuria.jpg?raw=true",
     "weightClass": "Featherweight",
     "hobbies": ["Wrestling", "Traveling"],
     "country": {
       "id": "country-011",
       "name": "Georgia",
-      "flag": "https://example.com/georgia-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/georgia_glossy_square_icon_640.png?raw=true",
       "population": 3716858,
       "capital": "Tbilisi"
     }
@@ -456,13 +456,13 @@
     "age": 32,
     "isActive": true,
     "birthdate": "1991-01-10",
-    "profilePicture": "https://example.com/merab.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/raw/refs/heads/main/assets/img/Merab_Dvalishvili.webp",
     "weightClass": "Bantamweight",
     "hobbies": ["Hiking", "Martial arts"],
     "country": {
       "id": "country-011",
       "name": "Georgia",
-      "flag": "https://example.com/georgia-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/georgia_glossy_square_icon_640.png?raw=true",
       "population": 3716858,
       "capital": "Tbilisi"
     }
@@ -474,13 +474,13 @@
     "age": 34,
     "isActive": true,
     "birthdate": "1989-08-25",
-    "profilePicture": "https://example.com/giga.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/raw/refs/heads/main/assets/img/Giga_Chikadze.webp",
     "weightClass": "Featherweight",
     "hobbies": ["Kickboxing", "Coaching"],
     "country": {
       "id": "country-011",
       "name": "Georgia",
-      "flag": "https://example.com/georgia-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/georgia_glossy_square_icon_640.png?raw=true",
       "population": 3716858,
       "capital": "Tbilisi"
     }
@@ -492,13 +492,13 @@
     "age": 46,
     "isActive": false,
     "birthdate": "1976-09-28",
-    "profilePicture": "https://example.com/fedor.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/raw/refs/heads/main/assets/img/Fedor_Emelianenko.webp",
     "weightClass": "Heavyweight",
     "hobbies": ["Sambo", "Training"],
     "country": {
       "id": "country-012",
       "name": "Russia",
-      "flag": "https://example.com/russia-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/russia_glossy_square_icon_640.png?raw=true",
       "population": 144100000,
       "capital": "Moscow"
     }
@@ -510,13 +510,13 @@
     "age": 29,
     "isActive": true,
     "birthdate": "1994-05-01",
-    "profilePicture": "https://example.com/khamzat.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Khamzat_Chimaev.jpg?raw=true",
     "weightClass": "Welterweight",
     "hobbies": ["Wrestling", "Hunting"],
     "country": {
       "id": "country-012",
       "name": "Russia",
-      "flag": "https://example.com/russia-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/russia_glossy_square_icon_640.png?raw=true",
       "population": 144100000,
       "capital": "Moscow"
     }
@@ -528,13 +528,13 @@
     "age": 30,
     "isActive": true,
     "birthdate": "1993-02-11",
-    "profilePicture": "https://example.com/petr.jpg",
+    "profilePicture": "https://github.com/Stormzy22/API_UFC/blob/main/assets/img/Petr_Yan.jpg?raw=true",
     "weightClass": "Bantamweight",
     "hobbies": ["Boxing", "Family time"],
     "country": {
       "id": "country-012",
       "name": "Russia",
-      "flag": "https://example.com/russia-flag.jpg",
+      "flag": "https://github.com/Stormzy22/API_UFC/blob/main/assets/icons/russia_glossy_square_icon_640.png?raw=true",
       "population": 144100000,
       "capital": "Moscow"
     }
